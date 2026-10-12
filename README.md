@@ -1,1 +1,1 @@
-# snaprent
+# SnapRent
