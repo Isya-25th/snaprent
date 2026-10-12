@@ -1,0 +1,225 @@
+{
+ "status": "ok",
+ "data": {
+  "kategori": [
+   {
+    "id_kategori": 1,
+    "nama_kategori": "Lighting Equipment"
+   },
+   {
+    "id_kategori": 2,
+    "nama_kategori": "Video Equipment"
+   },
+   {
+    "id_kategori": 3,
+    "nama_kategori": "Audio - Recorder"
+   },
+   {
+    "id_kategori": 4,
+    "nama_kategori": "Battery & Memory"
+   },
+   {
+    "id_kategori": 5,
+    "nama_kategori": "Equipment"
+   },
+   {
+    "id_kategori": 6,
+    "nama_kategori": "Lighting Video"
+   },
+   {
+    "id_kategori": 7,
+    "nama_kategori": "Lighting Photo - Flash"
+   },
+   {
+    "id_kategori": 8,
+    "nama_kategori": "Sony Lens APSC"
+   },
+   {
+    "id_kategori": 9,
+    "nama_kategori": "Sony Lens Fullframe"
+   },
+   {
+    "id_kategori": 10,
+    "nama_kategori": "Fujifilm Lens"
+   },
+   {
+    "id_kategori": 11,
+    "nama_kategori": "Canon Lens"
+   },
+   {
+    "id_kategori": 12,
+    "nama_kategori": "Lens Adapter"
+   },
+   {
+    "id_kategori": 13,
+    "nama_kategori": "Stabilizer - Gimbal"
+   },
+   {
+    "id_kategori": 14,
+    "nama_kategori": "Multimedia"
+   },
+   {
+    "id_kategori": 15,
+    "nama_kategori": "Mirrorless Sony"
+   },
+   {
+    "id_kategori": 16,
+    "nama_kategori": "Mirrorless Fuji/Canon"
+   },
+   {
+    "id_kategori": 17,
+    "nama_kategori": "Actioncam"
+   },
+   {
+    "id_kategori": 18,
+    "nama_kategori": "Camcorder"
+   },
+   {
+    "id_kategori": 19,
+    "nama_kategori": "DSLR Camera"
+   }
+  ],
+  "barang": [
+   {
+    "id_barang": 1,
+    "id_kategori": 15,
+    "nama_barang": "SONY A7 Mk IV (Body Only)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 350000,
+    "status_barang": "aktif",
+    "jadwal": [
+     {
+      "mulai": "2026-10-14T09:00",
+      "kembali": "2026-10-16T09:00"
+     }
+    ]
+   },
+   {
+    "id_barang": 2,
+    "id_kategori": 15,
+    "nama_barang": "SONY A6400 (Kit 16-50mm)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 160000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 3,
+    "id_kategori": 17,
+    "nama_barang": "DJI Osmo Nano",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 150000,
+    "status_barang": "aktif",
+    "jadwal": [
+     {
+      "mulai": "2026-10-13T10:00",
+      "kembali": "2026-10-15T10:00"
+     }
+    ]
+   },
+   {
+    "id_barang": 4,
+    "id_kategori": 17,
+    "nama_barang": "DJI Osmo Pocket 3 (Creator Combo+Mic)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 200000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 5,
+    "id_kategori": 19,
+    "nama_barang": "CANON 6D (Body Only)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 180000,
+    "status_barang": "maintenance",
+    "jadwal": []
+   },
+   {
+    "id_barang": 6,
+    "id_kategori": 16,
+    "nama_barang": "FUJIFILM X-T30 (Kit 15-45mm)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 140000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 7,
+    "id_kategori": 9,
+    "nama_barang": "SONY F.E 24-70mm F/2.8 G Master",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 200000,
+    "status_barang": "aktif",
+    "jadwal": [
+     {
+      "mulai": "2026-10-20T09:00",
+      "kembali": "2026-10-22T09:00"
+     }
+    ]
+   },
+   {
+    "id_barang": 8,
+    "id_kategori": 9,
+    "nama_barang": "SIGMA ART 35mm F/1.4 FE Sony",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 100000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 9,
+    "id_kategori": 6,
+    "nama_barang": "Godox SL150w ii",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 110000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 10,
+    "id_kategori": 3,
+    "nama_barang": "Zoom H4N Audio Recorder",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 70000,
+    "status_barang": "aktif",
+    "jadwal": []
+   },
+   {
+    "id_barang": 11,
+    "id_kategori": 13,
+    "nama_barang": "DJI RS Mini 4 (<1.9kg)",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 150000,
+    "status_barang": "aktif",
+    "jadwal": [
+     {
+      "mulai": "2026-10-14T09:00",
+      "kembali": "2026-10-15T09:00"
+     }
+    ]
+   },
+   {
+    "id_barang": 12,
+    "id_kategori": 5,
+    "nama_barang": "Tripod Video Takara",
+    "foto_barang": null,
+    "kondisi_fisik": null,
+    "harga_sewa_per_hari": 40000,
+    "status_barang": "aktif",
+    "jadwal": []
+   }
+  ]
+ }
+}
